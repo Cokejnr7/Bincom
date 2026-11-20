@@ -13,7 +13,7 @@ def recursive_search(num,index):
     return "Not found"
 
 
-##
+## main branch
 if __name__ == '__main__':
     users_num = input("type a number:")
     users_num = int(users_num.strip())
